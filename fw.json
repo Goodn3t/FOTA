@@ -3,5 +3,5 @@
     "version": 1,
     "host": "192.168.68.113",
     "port": 80,
-    "bin": "fota.bin"
+    "bin": "/fota.bin"
 }
